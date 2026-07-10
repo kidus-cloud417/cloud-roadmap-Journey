@@ -13,5 +13,22 @@
   cd : to move to another directory
   mkdir :to make directoty
   touch : To create an empty File
+
+  In Linux, we can use two methods to go to any path we want.With **Absolute Path** and **Relative Path**
+  let say You are in home/kidus/Documents
+  Let's say You want to go to Home/Kidus/Downloads
+  with An Absolute Path Method You use the full path
+  cd /Homw/Kidus/Downloads
+  But with Relatiive path Method is so simple
+  You can tell where to go only
+  cd..Downloads
+  **Both Methods Work Perfectly.
+  
+**Difference between cd ~ and cd - :**
+  cd ~ takes you straight to your home directory (your personal space on the system, like /home/username).
+  cd - acts like a "back" button , toggling you back to the previous directory you were just standing in.
+  cd / : we use this in a assolute path. It help us to make the starting and the destination point more clear.
+
+  
   
   
