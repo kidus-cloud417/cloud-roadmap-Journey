@@ -44,7 +44,7 @@ Internet
 -403 → Forbidden
 -500 → Server Error
 
-when we type this curl -v http://example.com on our terminal it show us what is happening between m=our machine and the server we wan to connect.
+when we type this curl -v http://example.com on our terminal it show us what is happening between in our machine and the server we wan to connect.
 
 cat /etc/services | head -n 20
 
